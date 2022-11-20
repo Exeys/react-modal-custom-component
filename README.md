@@ -2,7 +2,11 @@
 
 A customizable React modal component
 
+## Prerequisites
 
+- npm
+- react >=18.2.0
+- styled-components >=5.3.6
 
 ## Installation
 
